@@ -1,0 +1,38 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE / Editor settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Installers or setup scripts
+installers/
+
+# Output folders
+backend/output/
+frontend/output/
